@@ -1,0 +1,15 @@
+
+target/
+*.class
+*.war
+*.ear
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+# Ignore database configuration with sensitive credentials
+db.properties
